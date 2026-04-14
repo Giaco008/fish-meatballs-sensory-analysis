@@ -120,7 +120,3 @@ The analysis confirms that incorporating spinach and moringa significantly influ
 Among all formulations, **Treatment 0 consistently performed best**, indicating it is the most acceptable variant for consumers.  
 
 This study demonstrates how **data analytics and statistical methods** can be effectively applied in food product development to guide decision-making.
-
----
-
-## 📂 Project Structure  
