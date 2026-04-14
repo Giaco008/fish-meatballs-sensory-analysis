@@ -103,3 +103,25 @@ This highlights the importance of balancing **nutritional value and consumer pre
 
 ## 📂 Project Structure  
 
+fish-meatballs-sensory-analysis/
+├── data/
+├── analysis/
+├── visuals/
+├── results/
+├── report/
+└── README.md
+
+---
+
+## 📬 Contact  
+
+📧 jhunwillparian2008@gmail.com  
+🌐 giacoportfolio.netlify.app  
+
+---
+
+## 💼 About  
+**Jhunwill S. Pari-an**  
+Student Data Analyst | JSP Analytics  
+
+Specializing in **research data analysis, statistical testing, and data visualization**.
