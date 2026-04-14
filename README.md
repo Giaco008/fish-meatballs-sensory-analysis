@@ -112,7 +112,6 @@ This highlights the importance of balancing **nutritional value and consumer pre
 ## 📬 Contact  
 
 📧 jhunwillparian2008@gmail.com  
-🌐 giacoportfolio.netlify.app  
 
 ---
 
