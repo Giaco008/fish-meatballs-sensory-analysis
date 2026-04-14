@@ -101,15 +101,12 @@ This highlights the importance of balancing **nutritional value and consumer pre
 
 ---
 
-## 📂 Project Structure  
-
-fish-meatballs-sensory-analysis/
-├── data/
-├── analysis/
-├── visuals/
-├── results/
-├── report/
-└── README.md
+## 📂 Project Structure
+- data/ – raw and cleaned datasets  
+- analysis/ – Google Colab notebook  
+- visuals/ – charts and graphs  
+- results/ – statistical outputs  
+- report/ – full research document  
 
 ---
 
