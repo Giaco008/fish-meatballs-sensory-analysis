@@ -106,7 +106,6 @@ This highlights the importance of balancing **nutritional value and consumer pre
 - analysis/ – Google Colab notebook  
 - visuals/ – charts and graphs  
 - results/ – statistical outputs  
-- report/ – full research document  
 
 ---
 
